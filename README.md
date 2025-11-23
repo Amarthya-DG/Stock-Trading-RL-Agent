@@ -74,7 +74,7 @@ Initial: $100,000 → Final: $111,771 (11.77% return)
 ### Option 2: Local Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/trading-rl-agent.git
+git clone https://github.com/mygithubrepo/trading-rl-agent.git
 cd trading-rl-agent
 
 # Install dependencies
